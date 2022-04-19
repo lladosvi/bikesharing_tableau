@@ -30,7 +30,7 @@ Same as above but we added the gender component to the analysis. You can see the
 
 ![image](https://user-images.githubusercontent.com/96096924/163912895-7a67b3a2-442c-47f0-8228-aaeaafe6c76b.png)
 
-This graph shows the with the color intensity the number of rides per day and hour. In summary weekdays peak are commute hours in early morning and afternoon with Friday afternoon exit hours having a wider ranger. For weekends the peak is more unclear extending from late morning to early afternoon. There is definetely a huge variance in use for weekdays between peak and non peak, not as marked in the weekend. 
+This graph shows with the color intensity the number of rides per day and hour. In summary weekdays peak are commute hours in early morning and afternoon with Friday afternoon exit hours having a wider ranger. For weekends the peak is more unclear extending from late morning to early afternoon. There is definetely a huge variance in use for weekdays between peak and non peak, not as marked in the weekend. 
 
 ### Trips by Gender (weekday per hour)
 
@@ -42,7 +42,7 @@ Same as above by split by gender showing very similar pattern for male and femal
 
 ![image](https://user-images.githubusercontent.com/96096924/163913115-dcdbca18-0df4-479d-9e14-af74d48dde3d.png)
 
-Shows the nuber of trips by usertype and gender. Is clear that across days the majority of trips are from subscribers and shows stronger for make followed by female. 
+Shows the nuber of trips by usertype and gender. Is clear that across days the majority of trips are from subscribers and shows stronger for male followed by female. 
 
 ### Average Trip Dimension
 
