@@ -19,12 +19,14 @@ Below are the visualizations created with a description of what is being shown f
 ![image](https://user-images.githubusercontent.com/96096924/163912754-2f9dd49c-296a-45bb-adcf-1a4b80f7a2dc.png)
 
 The graph shows the duration of bike trips. In short most trips are shorter than 60 min and for the most part shorter than 20 min with the most frequent length being 6 min. So what the graph shows us that the trip durations are short in nature. 
+Link: https://public.tableau.com/app/profile/sebastian.llados.vila/viz/CitiBikeChallenge_16503340527170/TripDurantion?publish=yes
 
 ### Checkout Times by Gender
 
 ![image](https://user-images.githubusercontent.com/96096924/163912827-35bfc7ad-641b-4472-b7d2-0046df069963.png)
 
 Same as above but we added the gender component to the analysis. You can see the curves are similar with peak for males at 5 min and femaales at 6 min. The unkown has a little bit less clear peak between 7 and 24 minuntes. But overall across the board trips are short across genders. 
+Link: https://public.tableau.com/app/profile/sebastian.llados.vila/viz/CitiBikeChallenge_16503340527170/TripDurationbyGender?publish=yes
 
 ### Trips by Weekday for Each Hour
 
