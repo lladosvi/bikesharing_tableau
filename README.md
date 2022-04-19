@@ -35,6 +35,8 @@ This graph shows with the color intensity the number of rides per day and hour. 
 ![image](https://user-images.githubusercontent.com/96096924/163919742-d742171c-1228-44ac-85af-6b1ef2160766.png)
 
 
+Link: https://public.tableau.com/app/profile/sebastian.llados.vila/viz/CitiBikeChallenge_16503340527170/PeakHoursbyWeekday
+
 ### Trips by Gender (weekday per hour)
 
 ![image](https://user-images.githubusercontent.com/96096924/163913026-9ed31e78-2497-440f-a67e-34939d65077b.png)
