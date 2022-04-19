@@ -18,25 +18,37 @@ Below are the visualizations created with a description of what is being shown f
 
 ![image](https://user-images.githubusercontent.com/96096924/163912754-2f9dd49c-296a-45bb-adcf-1a4b80f7a2dc.png)
 
+The graph shows the duration of bike trips. In short most trips are shorter than 60 min and for the most part shorter than 20 min with the most frequent length is 6 min. So what the graph show us is that the trip duration are short in nature. 
+
 ### Checkout Times by Gender
 
 ![image](https://user-images.githubusercontent.com/96096924/163912827-35bfc7ad-641b-4472-b7d2-0046df069963.png)
+
+Same as above but we added the gender component to the analysis. You can see the curves are similar with peak for males at 5 min and femaales at 6 min. The unkown has a little bit less clear peak between 7 and 24 minuntes. But overall across the board trips are short across genders. 
 
 ### Trips by Weekday for Each Hour
 
 ![image](https://user-images.githubusercontent.com/96096924/163912895-7a67b3a2-442c-47f0-8228-aaeaafe6c76b.png)
 
+This graph shows the with the color intensity the number of rides per day and hour. In summary weekdays peak are commute hours in early morning and afternoon with Friday afternoon exit hours having a wider ranger. For weekends the peak is more unclear extending from late morning to early afternoon. There is definetely a huge variance in use for weekdays between peak and non peak, not as marked in the weekend. 
+
 ### Trips by Gender (weekday per hour)
 
 ![image](https://user-images.githubusercontent.com/96096924/163913026-9ed31e78-2497-440f-a67e-34939d65077b.png)
+
+Same as above by split by gender showing very similar pattern for male and female and no clear pattern for other. My guess is that this is mostly filled by tourists or non subscribers and less accurate in gender identification. 
 
 ### User Trips by Gender by Weekday
 
 ![image](https://user-images.githubusercontent.com/96096924/163913115-dcdbca18-0df4-479d-9e14-af74d48dde3d.png)
 
+Shows the nuber of trips by usertype and gender. Is clear that across days the majority of trips are from subscribers and shows stronger for make followed by female. 
+
 ### Average Trip Dimension
 
 ![image](https://user-images.githubusercontent.com/96096924/163913339-29829dda-8c37-4ec1-b9f3-9741230d64b6.png)
+
+
 
 ### August Peak Hours
 
