@@ -48,7 +48,7 @@ Shows the nuber of trips by usertype and gender. Is clear that across days the m
 
 ![image](https://user-images.githubusercontent.com/96096924/163913339-29829dda-8c37-4ec1-b9f3-9741230d64b6.png)
 
-
+This graph shows that in general the younger the person the longer the trip. There are some exceptions and the difference is not significant either. 
 
 ### August Peak Hours
 
@@ -57,3 +57,5 @@ Shows the nuber of trips by usertype and gender. Is clear that across days the m
 Peak hours are obviously in average commute hours early morning and afternoon but this is better explained by the graphs above for weekdays vs weekends. 
 
 ## Summary
+
+In summary after all the visualizations I conclude that the subscriber model is key in the case of new york and furthermore that there are clear patterns for weekdays and weekends, first related to commute and second to middle of the day (not too early not too late). It looks like both businesses are important in this case though I would like to compare the income from subscribers in weekdays vs weekends as the next graph. Also and from a complete different dataset I would like to understand the popolation of commuters in NY vs the new proposed city and use a pentration analogy to see if the commuter business would be sufficient. We can the layer the weekend analyis. 
