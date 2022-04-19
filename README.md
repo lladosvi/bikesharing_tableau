@@ -54,4 +54,6 @@ Shows the nuber of trips by usertype and gender. Is clear that across days the m
 
 ![image](https://user-images.githubusercontent.com/96096924/163913452-b95e90bc-686a-4407-8b17-12b6744e2c2b.png)
 
+Peak hours are obviously in average commute hours early morning and afternoon but this is better explained by the graphs above for weekdays vs weekends. 
+
 ## Summary
