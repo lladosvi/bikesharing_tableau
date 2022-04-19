@@ -12,6 +12,8 @@ Finally, with these new visualizations in addition to the ones created in the ta
 
 ## Results
 
+[link to dashboard](https://public.tableau.com/app/profile/sebastian.llados.vila/viz/CitiBikeChallenge_16503340527170/ChallengeSummary?publish=yes)
+
 Below are the visualizations created with a description of what is being shown for each of them:
 
 ### Checkout Times for Users
