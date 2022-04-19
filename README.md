@@ -18,7 +18,7 @@ Below are the visualizations created with a description of what is being shown f
 
 ![image](https://user-images.githubusercontent.com/96096924/163912754-2f9dd49c-296a-45bb-adcf-1a4b80f7a2dc.png)
 
-The graph shows the duration of bike trips. In short most trips are shorter than 60 min and for the most part shorter than 20 min with the most frequent length is 6 min. So what the graph show us is that the trip duration are short in nature. 
+The graph shows the duration of bike trips. In short most trips are shorter than 60 min and for the most part shorter than 20 min with the most frequent length being 6 min. So what the graph shows us that the trip durations are short in nature. 
 
 ### Checkout Times by Gender
 
